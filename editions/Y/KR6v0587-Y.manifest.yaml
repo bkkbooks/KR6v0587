@@ -1,0 +1,888 @@
+canonical_identifier: bkk:krp/KR6v0587/Y/v1
+canonical_location: https://kanripo.org/bkk/KR6v0587/Y/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 唯識學探源
+  identifiers:
+    krp: KR6v0587
+    cbeta: Y10n0010
+    cbeta_old_id: Y10n0010
+    authorityid: CA0008329
+    json_key: Y0010
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y10/Y10n0010.xml
+    old_id: Y10n0010
+  edition:
+    short: 'Y'
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0587_000-Y.yaml, hash: 'sha256:fbaea46b5cb342bd8d9872281b59e5bedc0dce832c6e0ce103272968d80297bb'}
+  - {seq: 1, filename: KR6v0587_001-Y.yaml, hash: 'sha256:e83d03eb0f8a8d535505738254389ea6bfa1f59090348f7e57ce4a4ee6657b38'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0587_000-Y.markers.yaml, hash: 'sha256:90d4cc8dc868be87c3be2ee6ce063bc1edf2553c8d23c9ccb0f4a728326dc27d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0587_001-Y.markers.yaml, hash: 'sha256:de3909d4b5281446646910328d22a9892c29cf4952c9052a850679117326c3c1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0587_Y_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題唯識學探源
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0587_Y_000-mulu-2
+    span:
+    - front
+    - 156
+    - 156
+  label: 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 65974
+  label: 唯識學探源
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 上編　原始佛教的唯識思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 第一章　原始佛教思想概說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-3
+    span:
+    - body
+    - 22
+    - 22
+  label: 第一節　原始佛教界說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-4
+    span:
+    - body
+    - 1134
+    - 1134
+  label: 第二節　原始佛教的根本思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-5
+    span:
+    - body
+    - 2858
+    - 2858
+  label: 第三節　緣起的解釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-6
+    span:
+    - body
+    - 2866
+    - 2866
+  label: 第一項　緣起支數的考察
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-7
+    span:
+    - body
+    - 3447
+    - 3447
+  label: 第二項　五支說的解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-8
+    span:
+    - body
+    - 4662
+    - 4662
+  label: 第三項　十支說的解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-9
+    span:
+    - body
+    - 4671
+    - 4671
+  label: 一、依胎生學為基礎的觸境繫心觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-10
+    span:
+    - body
+    - 6325
+    - 6325
+  label: 二、依認識論為基礎的觸境繫心觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-11
+    span:
+    - body
+    - 6845
+    - 6845
+  label: 第四項　十二支說的解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-12
+    span:
+    - body
+    - 7570
+    - 7570
+  label: 第五項　諸說的融貫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-13
+    span:
+    - body
+    - 8824
+    - 8824
+  label: 第二章　原始佛教所含蓄的唯識思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-14
+    span:
+    - body
+    - 8839
+    - 8839
+  label: 第一節　唯識思想的幾個觀念
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-15
+    span:
+    - body
+    - 10111
+    - 10111
+  label: 第二節　原始佛教與唯識思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-16
+    span:
+    - body
+    - 12308
+    - 12308
+  label: 下編　部派佛教的唯識思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-17
+    span:
+    - body
+    - 12319
+    - 12319
+  label: 第一章　部派佛教概說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-18
+    span:
+    - body
+    - 12328
+    - 12328
+  label: 第一節　部派分裂的概況
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-19
+    span:
+    - body
+    - 13239
+    - 13239
+  label: 第二節　部派思想的分化與趨勢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-20
+    span:
+    - body
+    - 15076
+    - 15076
+  label: 第二章　本識論探源
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-21
+    span:
+    - body
+    - 15084
+    - 15084
+  label: 第一節　概說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-22
+    span:
+    - body
+    - 16500
+    - 16500
+  label: 第二節　犢子系與本識思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-23
+    span:
+    - body
+    - 18870
+    - 18870
+  label: 第三節　說一切有系與本識思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-24
+    span:
+    - body
+    - 18883
+    - 18883
+  label: 第一項　說轉部的勝義補特伽羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-25
+    span:
+    - body
+    - 19304
+    - 19304
+  label: 第二項　有部的假名我與犢子系不可說我的關係
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-26
+    span:
+    - body
+    - 21848
+    - 21848
+  label: 第三項　經部譬喻師的細心說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-27
+    span:
+    - body
+    - 21860
+    - 21860
+  label: 甲　細心相續
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-28
+    span:
+    - body
+    - 21865
+    - 21865
+  label: 一、經部的淵源及其流派
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-29
+    span:
+    - body
+    - 23570
+    - 23570
+  label: 二、譬喻者的細心說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-30
+    span:
+    - body
+    - 23818
+    - 23818
+  label: 三、世友的細心說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-31
+    span:
+    - body
+    - 24261
+    - 24261
+  label: 四、上座師資的細心說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-32
+    span:
+    - body
+    - 25469
+    - 25469
+  label: 五、一類經為量者的細心說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-33
+    span:
+    - body
+    - 26868
+    - 26868
+  label: 乙　王所一體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-34
+    span:
+    - body
+    - 28332
+    - 28332
+  label: 第四節　分別說系與本識思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-35
+    span:
+    - body
+    - 28344
+    - 28344
+  label: 第一項　分別說系心識論概說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-36
+    span:
+    - body
+    - 28615
+    - 28615
+  label: 第二項　一心相續
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-37
+    span:
+    - body
+    - 29824
+    - 29824
+  label: 第三項　心性本淨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-38
+    span:
+    - body
+    - 34003
+    - 34003
+  label: 第四項　五法遍行與染俱意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-39
+    span:
+    - body
+    - 35085
+    - 35085
+  label: 第五項　有分識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-40
+    span:
+    - body
+    - 36868
+    - 36868
+  label: 第六項　細意識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-41
+    span:
+    - body
+    - 37216
+    - 37216
+  label: 第五節　大眾系與本識思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-42
+    span:
+    - body
+    - 37227
+    - 37227
+  label: 第一項　大眾系的特色
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-43
+    span:
+    - body
+    - 37794
+    - 37794
+  label: 第二項　遍依根身的細意識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-44
+    span:
+    - body
+    - 38470
+    - 38470
+  label: 第三項　生起六識的根本識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-45
+    span:
+    - body
+    - 39757
+    - 39757
+  label: 第三章　種習論探源
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-46
+    span:
+    - body
+    - 39765
+    - 39765
+  label: 第一節　種習思想概說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-47
+    span:
+    - body
+    - 40982
+    - 40982
+  label: 第二節　微細潛在的煩惱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-48
+    span:
+    - body
+    - 40992
+    - 40992
+  label: 第一項　隨眠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-49
+    span:
+    - body
+    - 40997
+    - 40997
+  label: 一、總說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-50
+    span:
+    - body
+    - 41357
+    - 41357
+  label: 二、有部的心相應行說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-51
+    span:
+    - body
+    - 41820
+    - 41820
+  label: 三、大眾、分別說系的心不相應說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-52
+    span:
+    - body
+    - 43268
+    - 43268
+  label: 四、犢子系的亦心相應亦心不相應說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-53
+    span:
+    - body
+    - 43572
+    - 43572
+  label: 第二項　習氣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-54
+    span:
+    - body
+    - 45110
+    - 45110
+  label: 第三項　阿賴耶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-55
+    span:
+    - body
+    - 46146
+    - 46146
+  label: 第三節　業力的存在
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-56
+    span:
+    - body
+    - 46154
+    - 46154
+  label: 第一項　概說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-57
+    span:
+    - body
+    - 46495
+    - 46495
+  label: 第二項　各派對業力存在的異說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-58
+    span:
+    - body
+    - 46508
+    - 46508
+  label: 一、薩婆多部的無表色
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-59
+    span:
+    - body
+    - 46764
+    - 46764
+  label: 二、經部的思種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-60
+    span:
+    - body
+    - 47144
+    - 47144
+  label: 三、成實論的無作業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-61
+    span:
+    - body
+    - 47599
+    - 47599
+  label: 四、大眾、分別說系的成就與曾有
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-62
+    span:
+    - body
+    - 48666
+    - 48666
+  label: 五、正量部的不失法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-63
+    span:
+    - body
+    - 49457
+    - 49457
+  label: 第三項　結說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-64
+    span:
+    - body
+    - 50259
+    - 50259
+  label: 第四節　有漏種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-65
+    span:
+    - body
+    - 50266
+    - 50266
+  label: 第一項　說轉部的一味蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-66
+    span:
+    - body
+    - 51623
+    - 51623
+  label: 第二項　化地部的窮生死蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-67
+    span:
+    - body
+    - 52741
+    - 52741
+  label: 第三項　大眾部的攝識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-68
+    span:
+    - body
+    - 53327
+    - 53327
+  label: 第四項　經量部的種習
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-69
+    span:
+    - body
+    - 53336
+    - 53336
+  label: 一、種子說的成立
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-70
+    span:
+    - body
+    - 54260
+    - 54260
+  label: 二、種子的異名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-71
+    span:
+    - body
+    - 55299
+    - 55299
+  label: 三、種子的體相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-72
+    span:
+    - body
+    - 56546
+    - 56546
+  label: 四、受熏與所依
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-73
+    span:
+    - body
+    - 59607
+    - 59607
+  label: 五、新熏與本有
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-74
+    span:
+    - body
+    - 60150
+    - 60150
+  label: 六、種子的起滅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-75
+    span:
+    - body
+    - 60760
+    - 60760
+  label: 七、種子的微妙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-76
+    span:
+    - body
+    - 61670
+    - 61670
+  label: 第五節　無漏種子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-77
+    span:
+    - body
+    - 61677
+    - 61677
+  label: 第一項　有部的解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-78
+    span:
+    - body
+    - 61974
+    - 61974
+  label: 第二項　經部的解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-79
+    span:
+    - body
+    - 61982
+    - 61982
+  label: 一、說轉的聖法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-80
+    span:
+    - body
+    - 62097
+    - 62097
+  label: 二、經部的淨界與無漏種
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-81
+    span:
+    - body
+    - 62735
+    - 62735
+  label: 三、大德的白法習氣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-82
+    span:
+    - body
+    - 63037
+    - 63037
+  label: 第三項　大眾、分別說系的解說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0587_Y_001-mulu-83
+    span:
+    - body
+    - 63245
+    - 63245
+  label: 第四章　無境論探源
+  type: mulu
+  level: 1
+hash: sha256:f4242a377e435be11103700f4f40fd8b2a7ad00651a7f0581b0bc0207ec7594e
