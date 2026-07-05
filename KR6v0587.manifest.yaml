@@ -18,11 +18,11 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0587_000.yaml, hash: 'sha256:96068f17698a9192d3326e32b0a1157228daee62341940a1fe50df78a0f680b4'}
-  - {seq: 1, filename: KR6v0587_001.yaml, hash: 'sha256:c591ddc80856fdea6db74ac803e85ad7d624b4b4ce32b19b6787999ab2e774c8'}
+  - {seq: 0, filename: KR6v0587_000.yaml, hash: 'sha256:fbaea46b5cb342bd8d9872281b59e5bedc0dce832c6e0ce103272968d80297bb'}
+  - {seq: 1, filename: KR6v0587_001.yaml, hash: 'sha256:e83d03eb0f8a8d535505738254389ea6bfa1f59090348f7e57ce4a4ee6657b38'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0587_000.markers.yaml, hash: 'sha256:3781f74265c7d75fcad57e0daf7e371f6615fc6101fdf177a8450ac786b977cd'}
-  - {seq: 1, role: markers, filename: assets/KR6v0587_001.markers.yaml, hash: 'sha256:71b19b48878b601b883b0a5b8d9682f1802b6845c925d2e9dea4e1bc8607d6b2'}
+  - {seq: 0, role: markers, filename: assets/KR6v0587_000.markers.yaml, hash: 'sha256:d2bea8f813f4c5bc2a9596710dce5d5bab0f18cb48450088c47f1ad15b665d78'}
+  - {seq: 1, role: markers, filename: assets/KR6v0587_001.markers.yaml, hash: 'sha256:ab36a9efd82065052d9d9a302b54e0907fccbcd97f04bbbe5b6e5d9ef0df69cf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -884,7 +884,4 @@ table_of_contents:
   label: 第四章　無境論探源
   type: mulu
   level: 1
-hash: sha256:6b0284bd0b4027868e53a182f84ef0c8f291b351344c747ee9648be9b8acfaee
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:65aa5b9cb827d2bd9a4d3a9a581d1c33abae3710c356fe8aea7e605e2e06a467
