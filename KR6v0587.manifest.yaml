@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0587/v1
 canonical_location: https://kanripo.org/bkk/KR6v0587/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 唯識學探源
   source:
@@ -18,11 +18,11 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0587_000.yaml, hash: 'sha256:fbaea46b5cb342bd8d9872281b59e5bedc0dce832c6e0ce103272968d80297bb'}
-  - {seq: 1, filename: KR6v0587_001.yaml, hash: 'sha256:e83d03eb0f8a8d535505738254389ea6bfa1f59090348f7e57ce4a4ee6657b38'}
+  - {seq: 0, filename: KR6v0587_000.yaml, hash: 'sha256:bd216e9149c28e31fef060dfa871a03e4220a8e98d0da61562064a6223e32f6c'}
+  - {seq: 1, filename: KR6v0587_001.yaml, hash: 'sha256:852af0930228492444f7563724cdce5ac72adfb4f07a801f8ab565bab209fc4e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0587_000.markers.yaml, hash: 'sha256:d2bea8f813f4c5bc2a9596710dce5d5bab0f18cb48450088c47f1ad15b665d78'}
-  - {seq: 1, role: markers, filename: assets/KR6v0587_001.markers.yaml, hash: 'sha256:ab36a9efd82065052d9d9a302b54e0907fccbcd97f04bbbe5b6e5d9ef0df69cf'}
+  - {seq: 0, role: markers, filename: assets/KR6v0587_000.markers.yaml, hash: 'sha256:4dbe2d5c919c966ca0681b0ce89ad69f61964b1ad44e7cfbda14f9badad1d155'}
+  - {seq: 1, role: markers, filename: assets/KR6v0587_001.markers.yaml, hash: 'sha256:212a9cd7d0d0b9a7ae7ec4a21d075387de52c90babd6a059e67385df30f29bc8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -884,4 +884,7 @@ table_of_contents:
   label: 第四章　無境論探源
   type: mulu
   level: 1
-hash: sha256:65aa5b9cb827d2bd9a4d3a9a581d1c33abae3710c356fe8aea7e605e2e06a467
+hash: sha256:322192ac79ac81a6e369467f838007cc926909d45363f8956a30af48ce4703cc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
