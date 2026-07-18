@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6v0587_001-Y.yaml, hash: 'sha256:e83d03eb0f8a8d535505738254389ea6bfa1f59090348f7e57ce4a4ee6657b38'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0587_000-Y.markers.yaml, hash: 'sha256:90d4cc8dc868be87c3be2ee6ce063bc1edf2553c8d23c9ccb0f4a728326dc27d'}
-  - {seq: 1, role: markers, filename: assets/KR6v0587_001-Y.markers.yaml, hash: 'sha256:de3909d4b5281446646910328d22a9892c29cf4952c9052a850679117326c3c1'}
+  - {seq: 1, role: markers, filename: assets/KR6v0587_001-Y.markers.yaml, hash: 'sha256:1e6ad6b6d04ce8aeca195d281551271a9f62750338db5f0a20f0384588c5e0da'}
 table_of_contents:
 - ref:
     seq: 0
@@ -885,4 +885,4 @@ table_of_contents:
   label: 第四章　無境論探源
   type: mulu
   level: 1
-hash: sha256:f4242a377e435be11103700f4f40fd8b2a7ad00651a7f0581b0bc0207ec7594e
+hash: sha256:b302b575033b32efe24bc976adc5182e34aa664ae0ac23800adf75b7adacd4e4

@@ -22,7 +22,7 @@ assets:
   - {seq: 1, filename: KR6v0587_001.yaml, hash: 'sha256:852af0930228492444f7563724cdce5ac72adfb4f07a801f8ab565bab209fc4e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0587_000.markers.yaml, hash: 'sha256:4dbe2d5c919c966ca0681b0ce89ad69f61964b1ad44e7cfbda14f9badad1d155'}
-  - {seq: 1, role: markers, filename: assets/KR6v0587_001.markers.yaml, hash: 'sha256:212a9cd7d0d0b9a7ae7ec4a21d075387de52c90babd6a059e67385df30f29bc8'}
+  - {seq: 1, role: markers, filename: assets/KR6v0587_001.markers.yaml, hash: 'sha256:962b379fd9c731b9f813cf9c1642c09002b972067efa926fbdfa14f7a859c8f4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -884,7 +884,7 @@ table_of_contents:
   label: 第四章　無境論探源
   type: mulu
   level: 1
-hash: sha256:322192ac79ac81a6e369467f838007cc926909d45363f8956a30af48ce4703cc
+hash: sha256:881801e619ec1839285323f8edd43895cc4175da66f510803b9918a76a993d9e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
