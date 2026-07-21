@@ -18,17 +18,17 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0587_000.yaml, hash: 'sha256:bd216e9149c28e31fef060dfa871a03e4220a8e98d0da61562064a6223e32f6c'}
+  - {seq: 0, filename: KR6v0587_000.yaml, hash: 'sha256:271c975625c56e2525c693bcbf963107d8ddc9ba3f8f3f4ba0b71b0b6e1e7bea'}
   - {seq: 1, filename: KR6v0587_001.yaml, hash: 'sha256:852af0930228492444f7563724cdce5ac72adfb4f07a801f8ab565bab209fc4e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0587_000.markers.yaml, hash: 'sha256:4dbe2d5c919c966ca0681b0ce89ad69f61964b1ad44e7cfbda14f9badad1d155'}
+  - {seq: 0, role: markers, filename: assets/KR6v0587_000.markers.yaml, hash: 'sha256:94d5afbaa06cfaaa27551c9eaa7c98a99912c3cab3525f170c63ffd946ca6c90'}
   - {seq: 1, role: markers, filename: assets/KR6v0587_001.markers.yaml, hash: 'sha256:962b379fd9c731b9f813cf9c1642c09002b972067efa926fbdfa14f7a859c8f4'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0587_Y_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題唯識學探源
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0587_Y_000-mulu-2
     span:
-    - front
+    - body
     - 156
     - 156
   label: 自序
@@ -884,7 +884,7 @@ table_of_contents:
   label: 第四章　無境論探源
   type: mulu
   level: 1
-hash: sha256:881801e619ec1839285323f8edd43895cc4175da66f510803b9918a76a993d9e
+hash: sha256:675b5047993be178c013dd40853d0309f06b4eda14c07d4fe7d513ed156d3182
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
